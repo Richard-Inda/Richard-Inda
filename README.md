@@ -15,4 +15,4 @@ I am Richard Inda, a passionate and self taught programmer and data analyst.
 ---
 [![](https://visitcount.itsvg.in/api?id=Dungeon-Coder&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Inda)](https://github.com/anuraghazra/github-readme-stats)
