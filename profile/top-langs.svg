@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="140"
-        viewBox="0 0 300 140"
+        height="115"
+        viewBox="0 0 300 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -130,27 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="235.82"
-          height="8"
-          fill="#355570"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="235.82"
-          y="0"
-          width="17.759999999999998"
-          height="8"
-          fill="#478CBF"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="243.57999999999998"
-          y="0"
-          width="16.42"
+          width="250"
           height="8"
           fill="#178600"
         />
@@ -159,23 +139,9 @@
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#355570" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GDScript 94.33%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#478CBF" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GDShader 3.10%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 2.57%
+        C# 100.00%
       </text>
     </g>
   </g></g>
