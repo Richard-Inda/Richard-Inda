@@ -1,15 +1,12 @@
 # 👋 Hi, I'm Richard!
 
 ```Software Engineer```
+I grew up on fantasy stories where magic changed the world.
 
-My life’s been a quest to unlock every nerdy interest possible.
-- Dungeons & Dragons? ✔️
-- Sci-fi? ✔️
-- Gaming? ✔️
-- Programming? ✔️
-- Spreadsheets? ✔️✔️
+Programming gave me that same feeling — except it’s real. You write code, and something in the world actually works better.
 
-I follow my passions and love connecting over any nerdy interests!
+For me, it’s about using technology to remove friction, automate what shouldn’t be manual, and improve quality of life in practical ways.
+
 
 **🛠️ Currently working on:** 👾Void Crsuaders👾 
 
